@@ -17,7 +17,8 @@
         "guzzlehttp/guzzle": "^6.3.1|^7.0.1",
         "laravel/framework": "^7.29",
         "laravel/tinker": "^2.5",
-        "miladrahimi/phpcrypt": "^5.0"
+        "miladrahimi/phpcrypt": "^5.0",
+        "php-flasher/flasher-laravel": "^0.9.5"
     },
     "require-dev": {
         "barryvdh/laravel-debugbar": "^3.6",
